@@ -15,7 +15,7 @@ Try it locally
 
 ::
 
-    git clone git@github.com:juliomalegria/django-chunked-upload-demo.git
+    git clone https://github.com/clara081094/chunck_django_example.git
     cd django-chunked-upload-demo/
 
 2. Install the requirements (I suggest using a virtualenv).
