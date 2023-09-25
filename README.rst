@@ -1,7 +1,7 @@
 django-chunked-upload demo
 ==========================
 
-This is a Django demo project of the `django-chunked-upload <https://github.com/juliomalegria/django-chunked-upload>`__ module.
+This examples is based on Django demo project of the `django-chunked-upload <https://github.com/juliomalegria/django-chunked-upload>`__ module.
 
 Live demo
 ---------
