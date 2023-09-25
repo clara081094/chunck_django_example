@@ -1,2 +1,1 @@
-Django
-django-chunked-upload
+Django==4.0.0
